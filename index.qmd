@@ -1,0 +1,40 @@
+---
+title: "Viktor Jahnke"
+image: images/profile.jpg
+image-alt: "Portrait of Viktor Jahnke"
+about:
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+     
+    - icon: file-earmark-pdf
+      text: CV
+      href: cv.qmd
+    - icon: github
+      text: GitHub
+      href: https://github.com/vjahnke
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=5x-oOyIAAAAJ&hl=en
+    - icon: journal-text
+      text: INSPIRE-HEP
+      href: https://inspirehep.net/authors/1277647
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0003-0204-9716
+---
+
+**Theoretical physicist working at the interface between quantum chaos and the AdS/CFT correspondence.**
+
+I am a researcher at IFT-UNESP in São Paulo, Brazil.
+
+My research focuses on universal aspects of quantum dynamics and quantum gravity, combining ideas from holography, quantum information, and random matrix theory.
+
+## Research interests
+
+- Quantum chaos, thermalization, and ETH
+- Holography, AdS/CFT, and black-hole dynamics
+- OTOCs and quantum information scrambling
+- Random matrix theory and free probability
+- Krylov complexity and operator growth

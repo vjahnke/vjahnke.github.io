@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+---
+
+<a class="btn btn-primary"
+   href="./files/CV_ViktorJahnke_Ago2026.pdf"
+   download>
+   Download my CV as a PDF
+</a>
+
+Last updated: August 2026.

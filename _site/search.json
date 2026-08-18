@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my CV as a PDF \nLast updated: August 2026."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My complete publication list will be added here."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies at the interface between quantum chaos, quantum information, and holography."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Viktor Jahnke",
+    "section": "",
+    "text": "Theoretical physicist working at the interface between quantum chaos and the AdS/CFT correspondence.\nI am a researcher at IFT-UNESP in São Paulo, Brazil.\nMy research focuses on universal aspects of quantum dynamics and quantum gravity, combining ideas from holography, quantum information, and random matrix theory."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Viktor Jahnke",
+    "section": "Research interests",
+    "text": "Research interests\n\nQuantum chaos, thermalization, and ETH\nHolography, AdS/CFT, and black-hole dynamics\nOTOCs and quantum information scrambling\nRandom matrix theory and free probability\nKrylov complexity and operator growth"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

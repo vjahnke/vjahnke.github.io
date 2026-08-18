@@ -1,0 +1,5 @@
+---
+title: "Research"
+---
+
+My research lies at the interface between quantum chaos, quantum information, and holography.
