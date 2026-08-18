@@ -76,13 +76,3 @@ Yongjun Ahn, **Viktor Jahnke**, Hyun-Sik Jeong, Keun-Young Kim, Kyung-Sun Lee, a
 
 This work derives the pole-skipping points of scalar and vector thermal correlators using both field-theoretic and holographic methods. We relate the leading pole-skipping points to the late-time behavior of conformal blocks in out-of-time-order correlators.
 
-### [Spectral and Krylov complexity in billiard systems](https://doi.org/10.1103/PhysRevD.109.046017)
-
-Hugo A. Camargo, **Viktor Jahnke**, Hyun-Sik Jeong, Keun-Young Kim, and Mitsuhiro Nishida  
-*Physical Review D* **109**, 046017 (2024).
-
-[Journal](https://doi.org/10.1103/PhysRevD.109.046017) ·
-[arXiv](https://arxiv.org/abs/2306.11632) ·
-[PDF](https://arxiv.org/pdf/2306.11632)
-
-This work investigates spectral and Krylov complexity in integrable circular billiards and chaotic stadium billiards. We show that the saturation value and timescale of spectral complexity can distinguish integrable from chaotic dynamics. We also study the Lanczos coefficients and Krylov complexity of the position operator, finding that their behavior provides additional signatures of integrability and quantum chaos.
