@@ -3,3 +3,14 @@ title: "Publications"
 ---
 
 My complete publication list will be added here.
+
+### [Quantum signatures of chaos from free probability](https://doi.org/10.1007/JHEP10(2025)138)
+
+Hugo A. Camargo, Yichao Fu, **Viktor Jahnke**, Keun-Young Kim, and Kuntal Pal  
+*Journal of High Energy Physics* **10** (2025) 138.
+
+[Journal](https://doi.org/10.1007/JHEP10(2025)138) ·
+[arXiv](https://arxiv.org/abs/2503.20338) ·
+[PDF](https://arxiv.org/pdf/2503.20338)
+
+This work proposes asymptotic freeness as a universal signature of quantum chaos. We test this idea in several quantum many-body systems and show that free-probability predictions emerge dynamically, accompanied by universal Wigner–Dyson fluctuations.
