@@ -76,3 +76,13 @@ Yongjun Ahn, **Viktor Jahnke**, Hyun-Sik Jeong, Keun-Young Kim, Kyung-Sun Lee, a
 
 This work derives the pole-skipping points of scalar and vector thermal correlators using both field-theoretic and holographic methods. We relate the leading pole-skipping points to the late-time behavior of conformal blocks in out-of-time-order correlators.
 
+### [Spread and spectral complexity in quantum spin chains: from integrability to chaos](https://doi.org/10.1007/JHEP08(2024)241)
+
+Hugo A. Camargo, Kyoung-Bum Huh, **Viktor Jahnke**, Hyun-Sik Jeong, Keun-Young Kim, and Mitsuhiro Nishida  
+*Journal of High Energy Physics* **08** (2024) 241.
+
+[Journal](https://doi.org/10.1007/JHEP08(2024)241) ·
+[arXiv](https://arxiv.org/abs/2405.11254) ·
+[PDF](https://arxiv.org/pdf/2405.11254)
+
+This work investigates spread and spectral complexity across the transition from integrability to chaos in quantum spin chains. We study the mixed-field Ising model and a next-to-nearest-neighbor deformation of the Heisenberg XXZ chain, showing that the characteristic peak of spread complexity provides a signature of chaotic dynamics. We also identify the spectral properties governing the saturation value and timescale of spectral complexity and discuss why the thermofield double state is particularly suitable for probing quantum chaos.
