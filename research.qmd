@@ -2,4 +2,20 @@
 title: "Research"
 ---
 
-My research lies at the interface between quantum chaos, quantum information, and holography.
+My research lies at the interface between quantum chaos and the AdS/CFT correspondence.
+
+
+
+The AdS/CFT correspondence is a duality between certain theories of gravity, usually arising from string theory, in an anti-de Sitter (AdS) spacetime and conformal field theories (CFTs) defined on its boundary. Gravity is dynamical in the AdS bulk but not in the boundary theory. Remarkably, these two theories are believed to describe the same physics. This allows difficult questions about quantum gravity in the bulk to be translated into problems involving an ordinary quantum field theory without gravity on the boundary.
+
+
+
+The boundary theory is typically a gauge theory characterized by the rank $N$ of its gauge group. In the limit $N \rightarrow \infty$, the duality becomes more tractable: the bulk theory approaches a classical gravitational description, quantum-gravity corrections are suppressed, and integrable structures can emerge in important theories and sectors. At finite $N$, however, these simplifications no longer apply. Integrability is generally broken, quantum-gravitational corrections become important, and the strongly coupled boundary dynamics is expected to become chaotic.
+
+
+
+Although chaotic quantum systems are complicated, they often display universal features that are largely independent of their microscopic details. These include characteristic patterns in energy-level statistics, thermalization, information scrambling, and operator growth. Because the bulk and boundary theories describe the same system, the gravitational path integral must reproduce these universal signatures of quantum chaos.
+
+
+
+My research uses this connection in the opposite direction: by understanding the universal chaotic behavior expected in the boundary theory, I seek to constrain the possible behavior of the dual gravitational theory. In this way, quantum chaos provides a powerful tool for investigating quantum gravity and the dynamics of black holes.

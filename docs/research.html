@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -145,7 +174,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>My research lies at the interface between quantum chaos, quantum information, and holography.</p>
+<p>My research lies at the interface between quantum chaos and the AdS/CFT correspondence.</p>
+<p>The AdS/CFT correspondence is a duality between certain theories of gravity, usually arising from string theory, in an anti-de Sitter (AdS) spacetime and conformal field theories (CFTs) defined on its boundary. Gravity is dynamical in the AdS bulk but not in the boundary theory. Remarkably, these two theories are believed to describe the same physics. This allows difficult questions about quantum gravity in the bulk to be translated into problems involving an ordinary quantum field theory without gravity on the boundary.</p>
+<p>The boundary theory is typically a gauge theory characterized by the rank <span class="math inline">\(N\)</span> of its gauge group. In the limit <span class="math inline">\(N \rightarrow \infty\)</span>, the duality becomes more tractable: the bulk theory approaches a classical gravitational description, quantum-gravity corrections are suppressed, and integrable structures can emerge in important theories and sectors. At finite <span class="math inline">\(N\)</span>, however, these simplifications no longer apply. Integrability is generally broken, quantum-gravitational corrections become important, and the strongly coupled boundary dynamics is expected to become chaotic.</p>
+<p>Although chaotic quantum systems are complicated, they often display universal features that are largely independent of their microscopic details. These include characteristic patterns in energy-level statistics, thermalization, information scrambling, and operator growth. Because the bulk and boundary theories describe the same system, the gravitational path integral must reproduce these universal signatures of quantum chaos.</p>
+<p>My research uses this connection in the opposite direction: by understanding the universal chaotic behavior expected in the boundary theory, I seek to constrain the possible behavior of the dual gravitational theory. In this way, quantum chaos provides a powerful tool for investigating quantum gravity and the dynamics of black holes.</p>
 
 
 
