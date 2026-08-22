@@ -59,3 +59,63 @@ In this talk, I discuss Krylov complexity and operator growth in free and intera
   style="width: 100%; max-width: 800px; aspect-ratio: 16 / 9; height: auto; border: 0; display: block;"
   allowfullscreen>
 </iframe>
+
+---
+
+## Progressos Recentes na Descrição de Caos Quântico
+
+**Seminário DRCC**  
+July 5, 2024
+
+Neste seminário, apresento uma introdução ao caos quântico e discuto seus desenvolvimentos recentes no contexto da correspondência AdS/CFT. Em particular, explico como sistemas quânticos fortemente acoplados podem admitir uma descrição gravitacional dual e como propriedades universais do caos aparecem nessa descrição.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=NXYoBAW_EWs){.btn .btn-primary target="_blank"}
+
+<iframe
+  width="800"
+  height="450"
+  src="https://www.youtube.com/embed/NXYoBAW_EWs"
+  title="Progressos Recentes na Descrição de Caos Quântico"
+  style="width: 100%; max-width: 800px; aspect-ratio: 16 / 9; height: auto; border: 0; display: block;"
+  allowfullscreen>
+</iframe>
+
+---
+
+## Chaos and Entanglement Spreading in a Non-Commutative Gauge Theory
+
+**Gravity, Quantum Fields and Information Virtual Seminar**  
+April 4, 2019
+
+In this talk, I discuss quantum chaos and the spreading of entanglement in a non-commutative gauge theory. Using its holographic description, I examine how spatial non-locality modifies the propagation of quantum information and the associated butterfly velocity.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=g3vni6B7sik){.btn .btn-primary target="_blank"}
+
+<iframe
+  width="800"
+  height="450"
+  src="https://www.youtube.com/embed/g3vni6B7sik"
+  title="Chaos and Entanglement Spreading in a Non-Commutative Gauge Theory"
+  style="width: 100%; max-width: 800px; aspect-ratio: 16 / 9; height: auto; border: 0; display: block;"
+  allowfullscreen>
+</iframe>
+
+---
+
+## Aspectos Básicos da Correspondência AdS/CFT
+
+**Encontros no Hades Seminar Series**  
+Recorded seminar published May 3, 2019
+
+Neste seminário, apresento os aspectos fundamentais da correspondência AdS/CFT. Discuto a relação entre teorias gravitacionais em espaços anti-de Sitter e teorias quânticas de campos definidas em sua fronteira, destacando como essa dualidade fornece uma ferramenta para estudar sistemas fortemente acoplados e aspectos da gravidade quântica.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=JiRtN9VXM2M){.btn .btn-primary target="_blank"}
+
+<iframe
+  width="800"
+  height="450"
+  src="https://www.youtube.com/embed/JiRtN9VXM2M"
+  title="Aspectos Básicos da Correspondência AdS/CFT"
+  style="width: 100%; max-width: 800px; aspect-ratio: 16 / 9; height: auto; border: 0; display: block;"
+  allowfullscreen>
+</iframe>
