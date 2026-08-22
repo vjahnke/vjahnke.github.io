@@ -18,14 +18,21 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "QUAST Seminar, Okinawa Institute of Science and Technology (OIST)\nMay 20, 2025\nIn this talk, I discuss how free probability can be used to characterize quantum chaos and describe the emergence of universal behavior in interacting quantum systems.\nWatch on YouTube"
+    "text": "IFT/ICTP-SAIFR Colloquium, IFT-UNESP\nApril 1, 2026\nIn this colloquium, I give a general introduction to quantum chaos and its universal signatures in complex quantum systems. I then discuss how these ideas can be applied to the AdS/CFT correspondence to investigate black holes, information scrambling, and quantum gravity.\nWatch on YouTube"
+  },
+  {
+    "objectID": "talks.html#from-quantum-chaos-to-black-holes",
+    "href": "talks.html#from-quantum-chaos-to-black-holes",
+    "title": "Talks",
+    "section": "",
+    "text": "IFT/ICTP-SAIFR Colloquium, IFT-UNESP\nApril 1, 2026\nIn this colloquium, I give a general introduction to quantum chaos and its universal signatures in complex quantum systems. I then discuss how these ideas can be applied to the AdS/CFT correspondence to investigate black holes, information scrambling, and quantum gravity.\nWatch on YouTube"
   },
   {
     "objectID": "talks.html#quantum-signatures-of-chaos-from-free-probability",
     "href": "talks.html#quantum-signatures-of-chaos-from-free-probability",
     "title": "Talks",
-    "section": "",
-    "text": "QUAST Seminar, Okinawa Institute of Science and Technology (OIST)\nMay 20, 2025\nIn this talk, I discuss how free probability can be used to characterize quantum chaos and describe the emergence of universal behavior in interacting quantum systems.\nWatch on YouTube"
+    "section": "Quantum Signatures of Chaos from Free Probability",
+    "text": "Quantum Signatures of Chaos from Free Probability\nQUAST Seminar, Okinawa Institute of Science and Technology (OIST)\nMay 20, 2025\nIn this talk, I discuss how free probability can be used to characterize quantum chaos and describe the emergence of universal behavior in interacting quantum systems.\nWatch on YouTube"
   },
   {
     "objectID": "talks.html#krylov-complexity-in-free-and-interacting-scalar-field-theories",

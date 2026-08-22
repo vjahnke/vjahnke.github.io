@@ -2,6 +2,24 @@
 title: "Talks"
 ---
 
+## From Quantum Chaos to Black Holes
+
+**IFT/ICTP-SAIFR Colloquium, IFT-UNESP**  
+April 1, 2026
+
+In this colloquium, I give a general introduction to quantum chaos and its universal signatures in complex quantum systems. I then discuss how these ideas can be applied to the AdS/CFT correspondence to investigate black holes, information scrambling, and quantum gravity.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=MWz7c86BVas&t=1707s){.btn .btn-primary target="_blank"}
+
+<iframe
+  width="800"
+  height="450"
+  src="https://www.youtube.com/embed/MWz7c86BVas?start=1707"
+  title="From Quantum Chaos to Black Holes"
+  style="max-width: 100%; border: 0;"
+  allowfullscreen>
+</iframe>
+
 ## Quantum Signatures of Chaos from Free Probability
 
 **QUAST Seminar, Okinawa Institute of Science and Technology (OIST)**  
