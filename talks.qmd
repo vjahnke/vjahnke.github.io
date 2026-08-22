@@ -1,0 +1,16 @@
+## Quantum Signatures of Chaos from Free Probability
+
+**QUAST Seminar, Okinawa Institute of Science and Technology (OIST)**  
+May 20, 2025
+
+In this talk, I discuss how free probability can be used to characterize quantum chaos and describe the emergence of universal behavior in interacting quantum systems.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=h4coT5asmNI&t=3688s){.btn .btn-primary target="_blank"}
+
+<div class="ratio ratio-16x9">
+  <iframe
+    src="https://www.youtube.com/embed/h4coT5asmNI?start=3688"
+    title="Quantum Signatures of Chaos from Free Probability"
+    allowfullscreen>
+  </iframe>
+</div>
