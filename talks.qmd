@@ -11,13 +11,13 @@ In this talk, I discuss how free probability can be used to characterize quantum
 
 [Watch on YouTube](https://www.youtube.com/watch?v=h4coT5asmNI&t=3688s){.btn .btn-primary target="_blank"}
 
-<div class="ratio ratio-16x9">
+
   <iframe
     src="https://www.youtube.com/embed/h4coT5asmNI?start=3688"
     title="Quantum Signatures of Chaos from Free Probability"
     allowfullscreen>
   </iframe>
-</div>
+
 
 ## Krylov Complexity in Free and Interacting Scalar Field Theories
 
@@ -28,10 +28,9 @@ In this talk, I discuss Krylov complexity and operator growth in free and intera
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aN0o_ZCTn08&t=33s){.btn .btn-primary target="_blank"}
 
-<div class="ratio ratio-16x9">
+
   <iframe
     src="https://www.youtube.com/embed/aN0o_ZCTn08?start=33"
     title="Krylov Complexity in Free and Interacting Scalar Field Theories"
     allowfullscreen>
   </iframe>
-</div>
