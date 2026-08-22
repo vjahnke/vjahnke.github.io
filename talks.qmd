@@ -16,9 +16,11 @@ In this colloquium, I give a general introduction to quantum chaos and its unive
   height="450"
   src="https://www.youtube.com/embed/MWz7c86BVas?start=1707"
   title="From Quantum Chaos to Black Holes"
-  style="max-width: 100%; border: 0;"
+  style="width: 100%; max-width: 800px; aspect-ratio: 16 / 9; height: auto; border: 0; display: block;"
   allowfullscreen>
 </iframe>
+
+---
 
 ## Quantum Signatures of Chaos from Free Probability
 
@@ -29,13 +31,16 @@ In this talk, I discuss how free probability can be used to characterize quantum
 
 [Watch on YouTube](https://www.youtube.com/watch?v=h4coT5asmNI&t=3688s){.btn .btn-primary target="_blank"}
 
+<iframe
+  width="800"
+  height="450"
+  src="https://www.youtube.com/embed/h4coT5asmNI?start=3688"
+  title="Quantum Signatures of Chaos from Free Probability"
+  style="width: 100%; max-width: 800px; aspect-ratio: 16 / 9; height: auto; border: 0; display: block;"
+  allowfullscreen>
+</iframe>
 
-  <iframe
-    src="https://www.youtube.com/embed/h4coT5asmNI?start=3688"
-    title="Quantum Signatures of Chaos from Free Probability"
-    allowfullscreen>
-  </iframe>
-
+---
 
 ## Krylov Complexity in Free and Interacting Scalar Field Theories
 
@@ -46,9 +51,11 @@ In this talk, I discuss Krylov complexity and operator growth in free and intera
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aN0o_ZCTn08&t=33s){.btn .btn-primary target="_blank"}
 
-
-  <iframe
-    src="https://www.youtube.com/embed/aN0o_ZCTn08?start=33"
-    title="Krylov Complexity in Free and Interacting Scalar Field Theories"
-    allowfullscreen>
-  </iframe>
+<iframe
+  width="800"
+  height="450"
+  src="https://www.youtube.com/embed/aN0o_ZCTn08?start=33"
+  title="Krylov Complexity in Free and Interacting Scalar Field Theories"
+  style="width: 100%; max-width: 800px; aspect-ratio: 16 / 9; height: auto; border: 0; display: block;"
+  allowfullscreen>
+</iframe>
