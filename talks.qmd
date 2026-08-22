@@ -18,3 +18,20 @@ In this talk, I discuss how free probability can be used to characterize quantum
     allowfullscreen>
   </iframe>
 </div>
+
+## Krylov Complexity in Free and Interacting Scalar Field Theories
+
+**Frontiers of Holographic Duality-5, Steklov Mathematical Institute**  
+December 8, 2023
+
+In this talk, I discuss Krylov complexity and operator growth in free and interacting scalar field theories, focusing on how mass, interactions, and ultraviolet cutoffs influence the Lanczos coefficients and the evolution of complexity.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=aN0o_ZCTn08&t=33s){.btn .btn-primary target="_blank"}
+
+<div class="ratio ratio-16x9">
+  <iframe
+    src="https://www.youtube.com/embed/aN0o_ZCTn08?start=33"
+    title="Krylov Complexity in Free and Interacting Scalar Field Theories"
+    allowfullscreen>
+  </iframe>
+</div>
