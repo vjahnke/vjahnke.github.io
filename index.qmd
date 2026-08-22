@@ -29,7 +29,7 @@ about:
 
 I am a researcher at IFT-UNESP in São Paulo, Brazil.
 
-My research focuses on universal aspects of quantum dynamics and quantum gravity, combining ideas from holography, quantum information, and random matrix theory.
+My research focuses on universal aspects of quantum dynamics and quantum gravity, combining ideas from holography, quantum information, random matrix theory and free probability.
 
 ## Research interests
 
